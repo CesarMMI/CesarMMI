@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cesar</h1>
+<h1 align="center">Hi, I'm Cesar 👋</h1>
 <h3 align="center">A passionate computer science student, currently studying front-end.</h3>
 
 - 🌱 I’m currently learning **Typescript and Angular.js**
