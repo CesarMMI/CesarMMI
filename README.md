@@ -1,36 +1,30 @@
-<h1 align="center">Hi, I'm Cesar 👋</h1>
+# 💫 About Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesarmmi)
 
-- 🌱 I’m currently learning **Typescript and Angular.js**
+🔭 I’m working on [NgWeather](https://github.com/CesarMMI/ng-weather)<br>
+🌱 Currently learning .NET<br>
+💬 Ask me about Angular
 
-- 📫 How to reach me: **cesargustavo53@gmail.com**
+# 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br>
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 💼 Connect with me: **<a href="https://linkedin.com/in/cesarmmi">LinkedIn</a>**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CesarMMI&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=CesarMMI&theme=dark&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarMMI&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarmmi&show_icons=true&locale=en" alt="cesarmmi" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
